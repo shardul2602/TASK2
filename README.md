@@ -82,5 +82,3 @@ You can easily customize the app by modifying:
 - If tasks don't save, make sure you're using a modern browser
 - If the app doesn't load, check that all three files are in the same directory
 - Clear browser cache if you experience any issues
-
-Enjoy your new To-Do List app! 🎉 
